@@ -10,8 +10,8 @@ FishyKeeb is a sting-ray shaped compact 4X1 customizable macroboard. It is made 
 - The macropad is now ready to use! (pretty simple init)
 
   <br>
+<img width="726" height="733" alt="image" src="https://github.com/user-attachments/assets/256a6950-ad7e-49bb-96b3-baddba123f0c" />
 
-<img width="845" height="717" alt="image" src="https://github.com/user-attachments/assets/90ae839e-1880-4b73-b8bb-3122defc5211" />
 
 <br>
 
