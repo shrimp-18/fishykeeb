@@ -77,6 +77,7 @@ Fishy Keeb is made to be given out as a prize to winners in Sunbeam Delhi. It is
 | 6 | — | — | Top Case | 3D printed | 1 | 257 | [Link](https://zbotic.in/product/online-3d-printing-service/) |
 | 7 | — | — | Screws | just screws | 4 | 6 | [Link](https://onlyscrews.in/products/phillips-csk-m3-x-10mm-pack-of-20) |
 | 8 | — | — | Key Caps | just keycaps | 4 | 32 | [Link](https://rajivelectronics.com/product/cherry-mx-compatible-transparent-keycap-mechanical-keyboard-keycap) |
+
 **Total estimated cost:** ₹2210
 
 
