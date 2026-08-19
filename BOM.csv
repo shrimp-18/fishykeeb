@@ -1,1 +1,12 @@
-S. No.,Reference,Value,Product Name,Note,Quantity,Cost(in INR),Link1,U1,XIAO-RP2040-DIP,XIAO RP2040,on the pcb,1,529,https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/2,"SW1, SW2, SW3, SW4",SW_Push,Cherry MX Switches,on the pcb,4,488,https://www.mouser.in/en/ProductDetail/CHERRY/MX2A-E1NB3,"D1, D2",SK6812MINI,LEDs,on the pcb,2,300,https://shiroganelab.com/en/products/keyball-rgb-led-sk6812mini-e4,n/a,n/a,PCB,the pcb,1,190,https://cart.jlcpcb.com/quote5,n/a,n/a,Bottom Case,3d printed,1,408,https://zbotic.in/product/online-3d-printing-service/6,n/a,n/a,Top Case,3dprinted,1,257,https://zbotic.in/product/online-3d-printing-service/7,n/a,n/a,Screws,just screws,4,6,https://onlyscrews.in/products/phillips-csk-m3-x-10mm-pack-of-208,n/a,n/a,Key Caps,just keycaps,4,32,,,,,,,,,,,,,,,,,,,,Total:,2210,
+﻿S. No.,Reference,Value,Product Name,Note,Quantity,Cost(in INR),Link
+1,U1,XIAO-RP2040-DIP,XIAO RP2040,on the pcb,1,529,https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/
+2,"SW1, SW2, SW3, SW4",SW_Push,Cherry MX Switches,on the pcb,4,488,https://www.mouser.in/en/ProductDetail/CHERRY/MX2A-E1NB
+3,"D1, D2",SK6812MINI,LEDs,on the pcb,2,300,https://shiroganelab.com/en/products/keyball-rgb-led-sk6812mini-e
+4,,,PCB,the pcb,1,190,https://cart.jlcpcb.com/quote
+5,,,Bottom Case,3d printed,1,408,https://zbotic.in/product/online-3d-printing-service/
+6,,,Top Case,3dprinted,1,257,https://zbotic.in/product/online-3d-printing-service/
+7,,,Screws,just screws,4,6,https://onlyscrews.in/products/phillips-csk-m3-x-10mm-pack-of-20
+8,,,Key Caps,just keycaps,4,32,https://rajivelectronics.com/product/cherry-mx-compatible-transparent-keycap-mechanical-keyboard-keycap
+,,,,,,,
+,,,,,,,
+,,,,,Total:,2210,
