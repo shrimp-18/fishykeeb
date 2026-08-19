@@ -4,6 +4,12 @@ FishyKeeb is a sting-ray shaped compact 4X1 customizable macroboard. It is made 
 
 ---
 
+<img width="420" height="595" alt="ZINE" src="https://github.com/user-attachments/assets/8d4c9b09-00aa-4add-a0a9-179deeb2c5dd" />
+
+<br>
+
+
+
 ## How it works
 
 - Plug the XIAO into your computer and upload firmware through the Arduino IDE given in this repository or use the QMK Firmware (https://qmk.fm/)
