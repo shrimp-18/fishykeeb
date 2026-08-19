@@ -21,6 +21,12 @@ Fishy Keeb is made to be given out as a prize to winners in Sunbeam Delhi. It is
 
 <br>
 
+## Schematic
+<img width="1021" height="836" alt="image" src="https://github.com/user-attachments/assets/196ed78a-a4f8-40ec-bc93-2b9fbd12b1ab" />
+
+<br>
+
+
 ## PCB
 <img width="1292" height="793" alt="image" src="https://github.com/user-attachments/assets/b00ac67d-25fd-4a85-9474-81f2b6be9cb2" />
 <br>
@@ -36,6 +42,22 @@ Fishy Keeb is made to be given out as a prize to winners in Sunbeam Delhi. It is
 <img width="844" height="712" alt="image" src="https://github.com/user-attachments/assets/a4e82900-c1fb-4780-b197-9769bfc50ceb" />
 
 ## Fusion Files: https://a360.co/4wC0P4i
+
+<br>
+
+## How to Build
+
+1. Download the KiCad files and then generate gerber files. <br>
+2. go to jlcpcb.com and place the order for the pcb!
+3. Buy all components listed in the BOM. <br>
+4. On receiving your PCB, solder the XIAO and the MX Cherry switches to the PCB.
+5. Place the keycaps on the switches.
+6. Use the CAD files given in the repo to 3D-print the top and bottom case of the fishy keeb.
+7. Place the assembled PCB in the bottom case and close it by aligning the top case.
+8. Use M3 Screws to hold the two parts of the cases together in place.
+9. Connect the XIAO to your computer and flash it with the firmware (either the .ino file using Arduino IDE or by using qmk.fm).
+10. Your fishy keeb is ready to use!!
+
 
 ## Bill of Materials (BOM)
 
