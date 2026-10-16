@@ -28,13 +28,14 @@ Fishy Keeb is made to be given out as a prize to winners in Sunbeam Delhi. It is
 <br>
 
 ## Schematic
-<img width="1021" height="836" alt="image" src="https://github.com/user-attachments/assets/196ed78a-a4f8-40ec-bc93-2b9fbd12b1ab" />
+<img width="539" height="420" alt="image" src="https://github.com/user-attachments/assets/d75ae94f-9c7c-40d7-ac41-fac43293e8dc" />
 
 <br>
 
 
 ## PCB
-<img width="1292" height="793" alt="image" src="https://github.com/user-attachments/assets/b00ac67d-25fd-4a85-9474-81f2b6be9cb2" />
+<img width="652" height="398" alt="image" src="https://github.com/user-attachments/assets/1124e5ff-834c-4ad2-8ee1-86adb7e839d1" />
+
 <br>
 <img width="1113" height="652" alt="image" src="https://github.com/user-attachments/assets/e8973100-9581-431e-98bf-562ca79a63f8" />
 
