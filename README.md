@@ -1,6 +1,6 @@
 # fishykeeb
 
-FishyKeeb is a sting-ray shaped compact 4X1 customizable macroboard. It is made for Sunbeam Delhi! It is powered by a XIAORP2040 and also has 2 RGB NeoPixel LEDs. Uses Cherry MX Red Switches. 
+FishyKeeb is a sting-ray shaped compact 4X1 customizable macroboard. It is made for Sunbeam Delhi! It is powered by a XIAORP2040. Uses Cherry MX Red Switches. 
 
 ---
 
@@ -28,13 +28,15 @@ Fishy Keeb is made to be given out as a prize to winners in Sunbeam Delhi. It is
 <br>
 
 ## Schematic
-<img width="539" height="420" alt="image" src="https://github.com/user-attachments/assets/d75ae94f-9c7c-40d7-ac41-fac43293e8dc" />
+<img width="455" height="328" alt="image" src="https://github.com/user-attachments/assets/7b978e37-e87d-42dd-9bce-f558dcfc19cd" />
+
 
 <br>
 
 
 ## PCB
-<img width="652" height="398" alt="image" src="https://github.com/user-attachments/assets/1124e5ff-834c-4ad2-8ee1-86adb7e839d1" />
+<img width="503" height="337" alt="image" src="https://github.com/user-attachments/assets/49e0d6b1-bf57-452b-abd7-2b6c3bb68344" />
+
 
 <br>
 <img width="1113" height="652" alt="image" src="https://github.com/user-attachments/assets/e8973100-9581-431e-98bf-562ca79a63f8" />
@@ -72,14 +74,13 @@ Fishy Keeb is made to be given out as a prize to winners in Sunbeam Delhi. It is
 |-------|-----------|-------|---------------|------|-----|-------------|------|
 | 1 | U1 | XIAO-RP2040-DIP | XIAO RP2040 | on the pcb | 1 | 529 | [Link](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) |
 | 2 | SW1, SW2, SW3, SW4 | SW_Push | Cherry MX Switches | on the pcb | 4 | 488 | [Link](https://www.mouser.in/en/ProductDetail/CHERRY/MX2A-E1NB) |
-| 3 | D1, D2 | SK6812MINI | LEDs | on the pcb | 2 | 300 | [Link](https://shiroganelab.com/en/products/keyball-rgb-led-sk6812mini-e) |
-| 4 | — | — | PCB | the pcb | 1 | 190 | [Link](https://cart.jlcpcb.com/quote) |
-| 5 | — | — | Bottom Case | 3D printed | 1 | 408 | [Link](https://zbotic.in/product/online-3d-printing-service/) |
-| 6 | — | — | Top Case | 3D printed | 1 | 257 | [Link](https://zbotic.in/product/online-3d-printing-service/) |
-| 7 | — | — | Screws | just screws | 4 | 6 | [Link](https://onlyscrews.in/products/phillips-csk-m3-x-10mm-pack-of-20) |
-| 8 | — | — | Key Caps | just keycaps | 4 | 32 | [Link](https://rajivelectronics.com/product/cherry-mx-compatible-transparent-keycap-mechanical-keyboard-keycap) |
+| 3 | — | — | PCB | the pcb | 1 | 190 | [Link](https://cart.jlcpcb.com/quote) |
+| 4 | — | — | Bottom Case | 3D printed | 1 | 408 | [Link](https://zbotic.in/product/online-3d-printing-service/) |
+| 5 | — | — | Top Case | 3D printed | 1 | 257 | [Link](https://zbotic.in/product/online-3d-printing-service/) |
+| 6 | — | — | Screws | just screws | 4 | 6 | [Link](https://onlyscrews.in/products/phillips-csk-m3-x-10mm-pack-of-20) |
+| 7 | — | — | Key Caps | just keycaps | 4 | 32 | [Link](https://rajivelectronics.com/product/cherry-mx-compatible-transparent-keycap-mechanical-keyboard-keycap) |
 
-**Total estimated cost:** ₹2210
+**Total estimated cost:** ₹1910
 
 
 
